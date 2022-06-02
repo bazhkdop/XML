@@ -1,4 +1,3 @@
-hello
 <BugReport>
   <Summery>number one in github file editer can't be removed</Summery>
   <StepsToReproduced>1. login in github 2. create new file 3. open file 4. click edit file icon 5. try to remove number one</StepsToReproduced>
